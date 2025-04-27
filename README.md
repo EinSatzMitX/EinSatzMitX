@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hi there 👋
 
 <!--
 **EinSatzMitX/EinSatzMitX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![EinSatzMitX's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinSatzMitX&show_icons=true&theme=gruvbox)
+
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Me-5865F2?logo=discord&logoColor=black)](https://discord.com/users/1017434146475348041)
