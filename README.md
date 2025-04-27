@@ -23,19 +23,22 @@ Favorite Tools:
     alt="Arch"
     width="50" />
 
+
+## Stats
+
 ![EinSatzMitX's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinSatzMitX&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EinSatzMitX&langs_count=8&theme=gruvbox&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Discord](https://img.shields.io/badge/Discord-Join%20Me-5865F2?logo=discord&logoColor=black)](https://discord.com/users/1017434146475348041) -->
 
-
-<!-- <a href="https://discord.com/users/1017434146475348041" target="_blank" rel="noopener noreferrer"> -->
-<!--   <img src="./cat_outlet.gif" alt="Join my Discord"> -->
-<!-- </a> -->
+<!-- <details> -->
+<!--     <summary>:zap: Github Stats</summary> -->
 <!---->
+<!--     <img align="left" alt="EinSatzMitX's Github Stats" src="github-readme-stats-chi-kohl-11.vercel.app/api?username=EinSatzMitX&show_icons=true&hide_border=true&theme=gruvbox" /> -->
+<!---->
+<!-- </details> -->
 
-
-# ME when osdev:
+## ME when osdev:
 
 <a href="https://discord.com/users/1017434146475348041"
    target="_blank" rel="noopener noreferrer">
