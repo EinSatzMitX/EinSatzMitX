@@ -22,7 +22,9 @@ Favorite Tools:
 <img src="./arch.webp"
     alt="Arch"
     width="50" />
-
+<img src="./NixOS.png"
+    alt="NixOS"
+    width="50" />
 
 ## Stats
 
