@@ -3,6 +3,8 @@
 Young programmer with a love for low-level stuff like operating systems,
 microcontrollers, and everything Linux-related (I use NixOS, by the way).
 
+Come and visit [my website](einsatzmitx.neocities.org)
+
 ---
 
 ## Favorite Tools
